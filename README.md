@@ -20,9 +20,9 @@
 
 ## 🎥 Demo Video
 
-> **[Watch the AI Assistant in Action](YOUR_VIDEO_LINK_HERE)**
-> 
-> See how Coach X provides personalized fitness recommendations, nutritional guidance, and safety-first meal planning.
+https://github.com/yourusername/ai-fitness-coach/assets/demo_test.mp4
+
+> **See Coach X in action!** Watch how our AI assistant provides personalized fitness recommendations, nutritional guidance, and safety-first meal planning through intelligent conversations.
 
 ## ✨ Key Features
 
