@@ -1,7 +1,7 @@
 # 🏋️‍♀️ AI Fitness Coach (Workout & Meals)
 
 <div align="center">
-  <img src="assets/ai-brain-icon.png" alt="AI Fitness Coach" width="120" height="120">
+  <img src="assets/AI_logo.png" alt="AI Fitness Coach" width="120" height="120">
   
   **Your Personal AI Trainer & Nutrition Expert**
   
@@ -50,7 +50,7 @@
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="assets/nodejs-logo.png" alt="Node.js and related technologies" width="400">
+  <img src="assets/nodejs.png" alt="Node.js and related technologies" width="400">
 </div>
 
 - **Backend Framework**: Node.js with Express.js
@@ -189,6 +189,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [MealDB](https://www.themealdb.com/) for nutrition data
 - [WGER](https://wger.de/) for exercise information
 - [Firebase](https://firebase.google.com/) for backend services
+
+## 📞 Support
+
+- 📧 Email: support@yourproject.com
+- 💬 Discord: [Join our community](https://discord.gg/yourserver)
+- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/ai-fitness-coach/issues)
 
 ---
 
