@@ -190,6 +190,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [WGER](https://wger.de/) for exercise information
 - [Firebase](https://firebase.google.com/) for backend services
 
+## 📞 Support
+
+- 📧 Email: support@yourproject.com
+- 💬 Discord: [Join our community](https://discord.gg/yourserver)
+- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/ai-fitness-coach/issues)
+
 ---
 
 <div align="center">
