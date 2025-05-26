@@ -1,7 +1,7 @@
 # 🏋️‍♀️ AI Fitness Coach (Workout & Meals)
 
 <div align="center">
-  <img src="ai-brain-icon.png" alt="AI Fitness Coach" width="120" height="120">
+  <img src="assets/ai-brain-icon.png" alt="AI Fitness Coach" width="120" height="120">
   
   **Your Personal AI Trainer & Nutrition Expert**
   
@@ -50,7 +50,7 @@
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="nodejs-logo.png" alt="Node.js and related technologies" width="400">
+  <img src="assets/nodejs-logo.png" alt="Node.js and related technologies" width="400">
 </div>
 
 - **Backend Framework**: Node.js with Express.js
@@ -142,7 +142,7 @@ Content-Type: application/json
 Coach X is your intelligent fitness companion designed to:
 
 <div align="center">
-  <img src="cute-bear-icon.png" alt="Coach X Mascot" width="80" height="80">
+  <img src="assets/coach-x-mascot.png" alt="Coach X Mascot" width="80" height="80">
 </div>
 
 - 🎯 **Personalize** recommendations based on your goals and preferences
