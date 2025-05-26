@@ -11,6 +11,7 @@
   [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
   [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
   [![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.ai/)
+  [![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)](https://ngrok.com/)
 </div>
 
 ## 🎯 Overview
@@ -19,9 +20,9 @@
 
 ## 🎥 Demo Video
 
-> **[Watch the AI Assistant in Action](YOUR_VIDEO_LINK_HERE)**
-> 
-> See how Coach X provides personalized fitness recommendations, nutritional guidance, and safety-first meal planning.
+https://github.com/x3lach/AI-Fitness-Coach-Workout-Meals-.git/assets/demo_test.mp4
+
+> **See Coach X in action!** Watch how our AI assistant provides personalized fitness recommendations, nutritional guidance, and safety-first meal planning through intelligent conversations.
 
 ## ✨ Key Features
 
@@ -57,6 +58,7 @@
 - **AI Engine**: Ollama (Local AI Models)
 - **Database**: Firebase Firestore
 - **Authentication**: Firebase Auth
+- **Tunneling**: ngrok (for local development and testing)
 - **External APIs**: MealDB API, WGER API
 - **Data Processing**: Custom nutrition database with JSON storage
 
@@ -65,6 +67,7 @@
 ### Prerequisites
 - Node.js (v14 or higher)
 - Ollama installed locally
+- ngrok (for tunneling/testing)
 - Firebase project setup
 
 ### Installation
@@ -97,7 +100,13 @@
    npm start
    ```
 
-The API will be available at `http://localhost:3000`
+6. **Optional: Set up ngrok for external access**
+   ```bash
+   # In a separate terminal
+   ngrok http 3000
+   ```
+
+The API will be available at `http://localhost:3000` (or your ngrok URL for external access)
 
 ## 📡 API Endpoints
 
@@ -142,7 +151,7 @@ Content-Type: application/json
 Coach X is your intelligent fitness companion designed to:
 
 <div align="center">
-  <img src="assets/coach-x-mascot.png" alt="Coach X Mascot" width="80" height="80">
+  <img src="assets/app_logo.jpeg" alt="Coach X Mascot" width="300" height="300">
 </div>
 
 - 🎯 **Personalize** recommendations based on your goals and preferences
@@ -190,11 +199,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [WGER](https://wger.de/) for exercise information
 - [Firebase](https://firebase.google.com/) for backend services
 
-## 📞 Support
-
-- 📧 Email: support@yourproject.com
-- 💬 Discord: [Join our community](https://discord.gg/yourserver)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/ai-fitness-coach/issues)
 
 ---
 

@@ -6,7 +6,7 @@ dotenv.config();
 
 // WGER API configuration
 const WGER_API_URL = 'https://wger.de/api/v2';
-const WGER_API_KEY = process.env.WGER_API_KEY || '980877f192ffa15fcd2a4c60b9b3293448cf5e83';
+const WGER_API_KEY = process.env.WGER_API_KEY || 'YOUR-API-KEY';
 
 // Create axios instance with default configuration
 const wgerClient = axios.create({
