@@ -151,7 +151,7 @@ Content-Type: application/json
 Coach X is your intelligent fitness companion designed to:
 
 <div align="center">
-  <img src="assets/app_logo.jpe" alt="Coach X Mascot" width="300" height="300">
+  <img src="assets/app_logo.jpeg" alt="Coach X Mascot" width="300" height="300">
 </div>
 
 - 🎯 **Personalize** recommendations based on your goals and preferences
