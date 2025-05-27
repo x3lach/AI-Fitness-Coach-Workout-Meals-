@@ -203,6 +203,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p><strong>Built with ❤️ for the fitness community</strong></p>
   <p>🌟 Star this repo if you found it helpful!</p>
 </div>
