@@ -20,7 +20,7 @@
 
 ## 🎥 Demo Video
 
-https://github.com/x3lach/AI-Fitness-Coach-Workout-Meals-.git/assets/demo_test.mp4
+[https://github.com/x3lach/AI-Fitness-Coach-Workout-Meals-.git/assets/demo_test.mp4](https://github.com/x3lach/AI-Fitness-Coach-Workout-Meals-/blob/master/assets/demo_test.mp4)
 
 > **See Coach X in action!** Watch how our AI assistant provides personalized fitness recommendations, nutritional guidance, and safety-first meal planning through intelligent conversations.
 
