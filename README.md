@@ -74,7 +74,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-fitness-coach.git
+   https://github.com/x3lach/AI-Fitness-Coach-Workout-Meals-.git
    cd ai-fitness-coach
    ```
 
