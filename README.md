@@ -75,7 +75,7 @@
 1. **Clone the repository**
    ```bash
    https://github.com/x3lach/AI-Fitness-Coach-Workout-Meals-.git
-   cd ai-fitness-coach
+   cd AI-Fitness-Coach-Workout-Meals--master
    ```
 
 2. **Install dependencies**
